@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="955a4575-65b7-4f82-93eb-f5b26e02d5ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -35,14 +55,45 @@
       <option name="presentableId" value="Default" />
       <updated>1616686521611</updated>
       <workItem from="1616686522711" duration="780000" />
-      <workItem from="1616687317232" duration="6772000" />
+      <workItem from="1616687317232" duration="7790000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md">
+      <created>1616787412971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616787412971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="764" y="100" width="1056" height="840" key="DiffContextDialog" timestamp="1616787827274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="100" width="1056" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616787827274" />
+    <state x="1083" y="221" key="RollbackChangesDialog" timestamp="1616787464420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1083" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616787464420" />
     <state x="775" y="240" key="SettingsEditor" timestamp="1616687304064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
