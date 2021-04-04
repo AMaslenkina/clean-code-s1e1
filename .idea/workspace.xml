@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="955a4575-65b7-4f82-93eb-f5b26e02d5ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/clean-code-s1e1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1616686521611</updated>
       <workItem from="1616686522711" duration="780000" />
-      <workItem from="1616687317232" duration="8155000" />
+      <workItem from="1616687317232" duration="9169000" />
+      <workItem from="1616864847736" duration="25000" />
+      <workItem from="1617553101220" duration="4166000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md">
       <created>1616787412971</created>
@@ -78,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md" />
@@ -88,6 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="100" width="1056" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616787827274" />
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1616864876852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616864876852" />
     <state x="1083" y="221" key="RollbackChangesDialog" timestamp="1616787464420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
